@@ -69,7 +69,7 @@ The final model achieved strong performance on the test set.
 | Precision | 0.879 |
 | Recall | 0.818 |
 | F1-score | 0.848 |
-| ROC-AUC | Add your ROC-AUC here |
+| ROC-AUC | 0.956 |
 
 The confusion matrix showed that the model correctly identified most cancelled and non-cancelled bookings, with a reasonable balance between false positives and false negatives.
 
