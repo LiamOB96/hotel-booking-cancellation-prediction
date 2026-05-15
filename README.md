@@ -80,3 +80,6 @@ The confusion matrix showed that the model correctly identified most cancelled a
 - Market segment type appeared useful for predicting cancellation behaviour.
 - Random Forest performed best overall.
 - Hyperparameter tuning did not improve the model in this case.
+
+## Conclusion
+The final Random Forest model performed well and showed that booking cancellation risk can be predicted using reservation and customer-related features. These predictions could help hotels make better business decisions around booking management, customer follow-up, and resource planning.
